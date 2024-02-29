@@ -1,0 +1,4 @@
+Write a program segment that accepts strings until a string is received
+beginning or ending with the letter 'Z'.
+The section will count and print the number of strings that start
+and also end with the letter 'X'.
